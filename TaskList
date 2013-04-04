@@ -1,0 +1,25 @@
+Bugs:
+1.  Make it so when using log, only csv and text are available options.
+2.	Massive testing
+
+User Stories:
+1.	Better layout
+2.	Menu bar
+3.	Allow to change location of fing
+4.	Scan functionality
+5.	Fingbox functionality
+6.	Design an icon/use crossrealms icon for program
+7.	Implement mac os x version
+8.	Pop up when finished
+9.	File explorer for location
+10.	Mac compatibility
+
+An initial stable build is most important. Fix bugs first before continuing with user stories
+
+README:
+MUST HAVE JAVA INSTALLED IN ORDER TO WORK.
+MUST HAVE FING IN DEFAULT LOCATION
+WHEN USING THE INTERFACE FILL ALL AVAILABLE INPUT OUT.
+MAKE SURE THE ROUNDS IS AT LEAST ONE OR IT WILL LOOP AND NEVER CREATE OUTPUT.
+WHEN USING LOG STYLE ONLY TEXT AND CSV ARE APPROPRIATE FORMATS.
+
